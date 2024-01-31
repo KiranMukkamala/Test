@@ -1,0 +1,55 @@
+Name;Type;GUID;Notes;Phase;Version;Priority;Stereotype;Fully Qualified Stereotype;Language;Author;Scope;Alias;Status;Complexity;Keywords;Is Abstract;Is Leaf;Is Root;Is Specification;Created Date;Modified Date;Requirement Difficulty;Requirement Priority;GenFile;Profile Metatype
+Example Subsystem A;Class;{DB9CABE5-EACE-462c-AB4E-B1ABE927325A};;1.0;1.0;;block;SysML1.4::block;Java;Matthias Farian;Public;;Proposed;1;;0;0;0;0;26-Jan-2023 15:52:52;09-Mai-2023 16:32:07;;;;SysML1.4::Block
+A Output 1;Port;{73556B50-7902-4d38-9018-1A64E8CD62D1};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;26-Jan-2023 15:54:09;24-Apr-2023 15:46:19;;;;Port
+Provide Function Status;Activity;{B910DE89-2CE5-410a-B310-4245211A55F0};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;26-Jan-2023 15:56:28;09-Mai-2023 16:31:02;;;;Activity
+Function Status;ActivityParameter;{8D11B039-B91B-443f-A8F5-2AD810987227};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;26-Jan-2023 15:57:02;24-Apr-2023 15:46:19;;;;ActivityParameter
+Example Subsystem B;Class;{F0BCAF25-10AB-4d0a-A1D4-892D9457F426};;1.0;1.0;;block;SysML1.4::block;Java;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 13:49:12;24-Apr-2023 18:24:47;;;;SysML1.4::Block
+Evaluate Status;Activity;{26E25ABB-7884-4d45-BEE5-4EB28B54B6F7};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 13:50:01;24-Apr-2023 15:46:19;;;;Activity
+Function Status;ActivityParameter;{04CD0B22-D87A-4bfa-815C-19B76D3A4352};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 13:50:29;24-Apr-2023 15:46:32;;;;ActivityParameter
+UI Text;ActivityParameter;{4CE94B0D-E7B8-47aa-8CCF-99CC1326D384};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 13:50:57;24-Apr-2023 15:46:32;;;;ActivityParameter
+Example System;Class;{B27D1466-73D7-44e5-9692-7E7F25E4CA80};;1.0;1.0;;block;SysML1.4::block;Java;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 14:30:43;24-Apr-2023 15:46:19;;;;SysML1.4::Block
+Part A;Part;{C652EDB2-BD97-404f-8EB5-0FDA01100F98};;1.0;1.0;;;;Java;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 14:36:52;24-Apr-2023 15:46:19;;;;Part
+Part B;Part;{2D1E2C10-3C0B-46da-83F8-8CF68C960552};;1.0;1.0;;;;Java;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 14:36:58;24-Apr-2023 15:46:19;;;;Part
+A Output 1;Port;{182D8A0F-F4A7-471b-875D-5E4DA5B928B9};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;26-Jan-2023 15:54:09;24-Apr-2023 15:46:19;;;;Port
+B Input;Port;{8423696F-CC7F-4fef-B62D-06D7EECE5757};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 14:38:27;24-Apr-2023 15:46:19;;;;Port
+B Output;Port;{5201B4CF-8D61-4579-A977-305308E3DE9F};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 08:06:47;24-Apr-2023 15:46:19;;;;Port
+B Input;Port;{07E3A77A-1AD1-46d0-B390-B98AA33F3194};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;10-Feb-2023 14:38:27;24-Apr-2023 15:46:19;;;;Port
+B Output;Port;{53DD4E2E-F6D2-4759-9BDA-67722467DBA0};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 08:06:47;24-Apr-2023 15:46:19;;;;Port
+Main Input;Port;{167DE600-CE34-4ed1-97B5-FD9848472C6D};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 08:21:13;24-Apr-2023 15:46:19;;;;Port
+Main Output;Port;{5C9E39FB-CA81-448a-8FB4-7574C14DB2C2};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 08:21:25;24-Apr-2023 15:46:19;;;;Port
+A Input;Port;{8831017A-61C1-470d-97CA-25B4A96BDF42};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 08:26:18;24-Apr-2023 15:46:19;;;;Port
+A Input;Port;{4881DC4B-66F8-4ef9-9575-2D172496B260};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 08:26:18;24-Apr-2023 15:46:19;;;;Port
+Vehicle Signals;Port;{336284C6-81AF-4a0e-AA79-C80577D1DEF4};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 09:08:30;24-Apr-2023 15:46:19;;;;Port
+Vehicle Signals;Port;{5F19D4CA-60CE-408b-BD41-F1F6265EE455};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 09:08:30;24-Apr-2023 15:46:19;;;;Port
+A Output 2;Port;{7A5AF794-376E-4a2e-A72B-1F8F7C10E8DC};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 11:08:43;24-Apr-2023 15:46:19;;;;Port
+A Output 2;Port;{4C9F41F7-442D-42ba-9967-2BC666C323BA};;1.0;1.0;;ProxyPort;SysML1.4::ProxyPort;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 11:08:43;24-Apr-2023 15:46:19;;;;Port
+Value;ActivityParameter;{2337EB7E-0825-443f-AD68-7BD841733F7E};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 11:51:35;09-Mai-2023 16:34:37;;;;ActivityParameter
+Status;ActivityParameter;{63D60D24-8B46-4286-AC4C-423FB5DAC201};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 11:53:15;09-Mai-2023 16:33:21;;;;ActivityParameter
+Drive Mode;ActivityParameter;{2FFE2791-B1AD-45b4-B829-7E426CC7DFE5};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;22-Mrz-2023 14:57:05;24-Apr-2023 15:46:32;;;;ActivityParameter
+Provide Timestamp;Activity;{9ABE9C42-7782-4923-93C5-7C387640A5FB};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;28-Mrz-2023 10:26:11;24-Apr-2023 15:46:19;;;;Activity
+Timestamp;ActivityParameter;{6255165B-BBB0-4631-A264-99682F9CA5E8};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;28-Mrz-2023 10:26:37;24-Apr-2023 15:46:19;;;;ActivityParameter
+Action;Action;{E95C711D-E3E3-46ab-8568-AE4F1C16B7DC};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;31-Mrz-2023 15:29:28;24-Apr-2023 15:46:19;;;;Action
+Value;ActionPin;{4354AA13-BC3A-4fa5-9DC7-EC2675427B37};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;31-Mrz-2023 15:30:16;24-Apr-2023 15:46:19;;;;ActionPin
+Status;ActionPin;{F46E3034-D326-4f1c-9F7F-8EC11660A829};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;31-Mrz-2023 15:30:57;24-Apr-2023 15:46:19;;;;ActionPin
+Function Status;ActionPin;{2A6F87AC-421B-4374-A03C-2FAD0315FE44};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;31-Mrz-2023 15:32:35;24-Apr-2023 15:46:19;;;;ActionPin
+Acquire NTP Timestamp;Action;{F780E229-0093-42cf-AF63-626A13DBD741};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;31-Mrz-2023 15:35:45;09-Mai-2023 16:02:27;;;;Action
+Timestamp;ActionPin;{EE8504E4-FD28-4c17-BEEE-F6CD0320EA27};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;31-Mrz-2023 15:36:36;24-Apr-2023 15:46:19;;;;ActionPin
+Action1;Action;{2DC4105B-2E50-4e95-AD5D-895D20C941F9};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;24-Apr-2023 11:00:25;24-Apr-2023 15:46:19;;;;Action
+Action2;Action;{B05D2072-BE57-4df2-9093-D4FDA2FCFCB0};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;24-Apr-2023 11:00:40;24-Apr-2023 15:46:19;;;;Action
+Internal Signal;ActionPin;{D7E54A11-B4D1-4112-B10F-C1A912F89A95};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;24-Apr-2023 11:00:58;24-Apr-2023 15:46:31;;;;ActionPin
+Internal Signal;ActionPin;{12BF2BAD-257B-47dd-93BB-7DBC314EB4D6};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;24-Apr-2023 11:00:59;24-Apr-2023 15:46:32;;;;ActionPin
+Function Status;ActionPin;{34149A1E-3733-4a6e-9C17-9426F544C6D3};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;24-Apr-2023 11:02:34;24-Apr-2023 15:46:19;;;;ActionPin
+Drive Mode;ActionPin;{88E5E641-5593-49f2-A079-C1DF16A498A4};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;24-Apr-2023 11:03:51;24-Apr-2023 15:46:19;;;;ActionPin
+UI Text;ActionPin;{BDA7E430-F713-44ac-8384-62727AA85600};;1.0;1.0;;;;<none>;Matthias Farian;Public;;Proposed;1;;0;0;0;0;24-Apr-2023 11:04:06;24-Apr-2023 15:46:31;;;;ActionPin
+Example System;Activity;{39F0B936-67FA-4a1f-A5E5-F32C972EDA3A};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;25-Apr-2023 15:15:34;09-Mai-2023 11:39:57;;;;Activity
+Value;ActivityParameter;{199EC834-2912-4bef-9215-3CA36F0861FC};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;25-Apr-2023 15:16:23;26-Apr-2023 11:45:38;;;;ActivityParameter
+Status;ActivityParameter;{A32BBEEF-E4C6-44b6-93BA-88C5285F75A1};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;25-Apr-2023 15:17:24;26-Apr-2023 11:46:24;;;;ActivityParameter
+DriveMode;ActivityParameter;{2C608184-AEDF-440c-9DE6-3EDCEA1B81AE};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;25-Apr-2023 15:17:27;26-Apr-2023 11:57:41;;;;ActivityParameter
+UI Text;ActivityParameter;{0520D60C-4F39-4a58-A026-8EF12F649158};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;26-Apr-2023 12:01:11;26-Apr-2023 12:16:21;;;;ActivityParameter
+Time Stamp;ActivityParameter;{C4085B8F-414E-4e02-BECD-EF46D6E39D00};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;26-Apr-2023 12:20:55;26-Apr-2023 12:20:55;;;;ActivityParameter
+ActivityInitial;StateNode;{49915418-05B3-4c3b-A0F8-150808365DAA};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;26-Apr-2023 15:50:06;26-Apr-2023 15:50:06;;;;StateNode
+ActivityFinal;StateNode;{08F20E83-F676-47ab-881B-40DFC22DAD0C};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;26-Apr-2023 15:50:55;26-Apr-2023 15:50:55;;;;StateNode
+CallBehavior1;Action;{8CF5992B-B039-4200-B630-15368B6A2B43};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;28-Apr-2023 16:43:24;28-Apr-2023 16:45:18;;;;Action
+Timestamp;ActionPin;{214863C7-751A-4cd8-A481-324C16B7A4AA};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;28-Apr-2023 16:44:17;28-Apr-2023 16:46:37;;;;ActionPin
+;Synchronization;{FEA96AAC-B5E3-439b-A91E-8959E53C13E2};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;09-Mai-2023 17:06:01;09-Mai-2023 17:06:01;;;;Synchronization
+Join;Synchronization;{F07A36BF-586C-467b-9EC8-4CB52893DAE2};;1.0;1.0;;;;<none>;Kiran Mukkamala;Public;;Proposed;1;;0;0;0;0;09-Mai-2023 17:07:46;09-Mai-2023 17:07:59;;;;Synchronization
